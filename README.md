@@ -1,15 +1,135 @@
-# 💫 About Me:
-## Hi 👋, I'm Faizan Javed<br><br>**Android Developer | Flutter Developer | Industrial Automation | AOSP Enthusiast |**<br><br>---<br><br>## 🚀 About Me<br><br>🔭 **Current Mission**  <br>Working on **StarApp 20k+ download** — A Live streaming App with web rtc and rtmp integration.<br><br>🌱 **Currently Leveling Up**  <br>- GitHub Actions & **CI/CD Pipelines**  <br>- Android **Code Quality Tools**: Detekt, Ktlint, CPD  <br>- Deep dive into **IoT Integration** with Android<br><br>🎯 **Long-Term Goal**  <br>Contribute to **AOSP (Android Open Source Project)** and work closer to Android system-level development.<br><br>👯 **Collaboration**  <br>Open to collaborating on **Open Source Android applications** and automation-related projects.<br><br>💬 **Ask Me About**  <br>Kotlin, Jetpack Compose, Clean Architecture, Android CI/CD.<br><br>📫 **Reach Me At**  <br>📧 **faziimughal22@gmail.com**<br><br>---<br><br>## 🛠️ Tech Stack & Tools<br><br>### 📱 Mobile Development<br>- **Kotlin**<br>- **Jetpack Compose**<br>- **Flutter**<br>- MVVM & Clean Architecture<br><br>### ⚙️ CI/CD & Code Quality<br>- **GitHub Actions**<br>- Detekt<br>- Ktlint<br>- CPD<br><br>### 📡 IoT & Industrial Automation<br>- Arduino<br>- IoT Systems<br>- Python for IoT<br><br>---<br><br>## 🌱 What I'm Focused On<br>- Building scalable & maintainable Android apps  <br>- Automating Android build & deployment pipelines  <br>- Learning AOSP & low-level Android internals  <br>- Integrating Android with IoT & industrial systems<br><br>---<br><br>⭐ *Always learning, always building.*<br>
+<div align="center">
 
+# Faizan Javed
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faizan-javed-14127627b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AndroidComposeDev/videos) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Faizan Javed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faziimughal22@gmail.com) 
+### Flutter & Android Engineer • Real-Time Media • AR Filters • Industrial IoT
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-javed-14127627b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faziimughal22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://faizan18506.github.io/)
 
+📍 Pakistan • Open to relocation across Europe 🇪🇺
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Faizan18506&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+Mobile engineer specializing in high-performance Android and Flutter applications with experience in real-time media systems, AR integrations, and industrial IoT solutions.
+
+I enjoy building products where mobile software interacts directly with cameras, sensors, hardware, and real-world systems.
+
+Currently focused on:
+- AOSP internals
+- Compose Multiplatform
+- Advanced CI/CD pipelines
+- System-level Android engineering
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| **StarApp** | Kotlin • WebRTC • OpenGL ES • CameraKit | 50K+ downloads • Live streaming platform |
+| **ResQLink** | Flutter • Maps • ETA Engine | Improved emergency dispatch efficiency by 18% |
+| **Avante Ventilation** | Modbus RTU/TCP • PLC • jLibModbus | Industrial safety-critical IoT platform |
+| **Mova Prive** | Flutter • Node.js • JWT • GPS | Reduced API latency by 25% |
+| **Worker Shield** | Kotlin • BLE • Firebase • Smartwatch | Real-time workplace hazard alerts |
+
+---
+
+# 🛠 Tech Stack
+
+## Mobile Development
+```txt
+Kotlin • Jetpack Compose • Flutter • Dart • Java
+MVVM • Clean Architecture • MVI • BLoC • GetX • Provider
+```
+
+## Real-Time Media & Graphics
+```txt
+WebRTC • RTMP • OpenGL ES • EGL
+Snapchat CameraKit • DeepAR SDK • ExoPlayer
+Frame-level video processing • AR filter pipelines
+```
+
+## Industrial & IoT
+```txt
+Modbus RTU/TCP • PLC Integration • BLE
+Arduino • Android Serial Port API • HMI Systems
+jLibModbus
+```
+
+## Backend & Cloud
+```txt
+Firebase • Firestore • FCM • Auth
+Node.js • REST APIs • GraphQL
+JWT • Socket.io • MongoDB
+```
+
+## AI Integration
+```txt
+ChatGPT API • Gemini API • On-device ML
+```
+
+## DevOps & Quality
+```txt
+GitHub Actions • CI/CD • Detekt
+KtLint • SonarQube • ProGuard
+```
+
+---
+
+# 🔬 Personal Projects
+
+## 🎵 AudioPlayer
+Music streaming application with:
+- ExoPlayer foreground service
+- Playlist management
+- Audio visualizer
+- Lock-screen controls
+- AdMob monetization
+
+## 🔐 Anti-Theft Security App
+- Accelerometer + proximity sensor monitoring
+- Silent alarm system
+- Auto-capture intruder photos using Camera2 API
+
+## 📚 Theses Creator
+AI-powered academic assistant featuring:
+- Gemini API integration
+- Offline query caching
+- PDF export support
+- AdMob monetization
+
+---
+
+# 🌱 Currently Learning
+
+- Android Open Source Project (AOSP)
+- HAL & HIDL internals
+- Compose Multiplatform
+- Advanced GitHub Actions workflows
+- Automated testing & deployment pipelines
+
+---
+
+# 🎯 Long-Term Goal
+
+To work at the intersection of Android platform engineering and real-world hardware systems — building software that directly interacts with devices, sensors, and infrastructure.
+
+Long term goal: contribute to AOSP and system-level Android development.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan18506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan18506&layout=compact&theme=tokyonight&hide_border=true)
+
+### Always building. Always shipping.
+
+</div>
